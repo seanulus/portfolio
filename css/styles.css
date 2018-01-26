@@ -1,0 +1,21 @@
+img {
+  float: right;
+  border: solid black 4px;
+  margin: 4px;
+  padding: 2px;
+}
+
+footer, h1, p {
+  font-style: oblique;
+  font-family: fantasy;
+}
+
+body {
+  background-image: url(http://www.jazzmasterguitars.com/category/black-fender-jazzmaster/);
+}
+
+.italic {
+  font-style: italic;
+  font-family: fantasy;
+  border: solid black 2 px
+}
