@@ -14,7 +14,7 @@ body {
   background-color: #3f6096;
 }
 
-.italic {
+.italic p{
   font-style: italic;
   font-family: fantasy;
   border: solid black 2 px
